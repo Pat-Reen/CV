@@ -43,8 +43,6 @@ career-profile:
         
         I have extensive experience in process overhaul	and using data analytics 
         and predictive modelling to inform business decisions.
-        
-        I can start immediately, having just returned from a career break.
 
 skills:
     title: Skills &amp; Proficiency
@@ -69,6 +67,23 @@ skills:
         level: 50%
 
 experiences:
+    - role: Pricing and Analytics Consultant
+      time: Sep 2022 - Present
+      company: Munich Reinsurance, Australia (MRA)
+      details: |
+        Reporting to Head of Group Insurance (HoGI)
+
+        In this role I consulted on the redesign of group pricing processes with a view to improving efficiency, 
+        increasing automation, increasing the level of result granularity, reducing operational risk 
+        and upskilling the team. 
+
+          - Translated business needs into technical requirements
+          - Advised the HoGI and head of group pricing on project plans and timelines
+          - Led the viability assessment of proposed software solutions
+          - Devised and led the execution of the solution testing plan 
+          - Modified plans based upon cross-functional input e.g. group enterprise architecture, 
+            external software providers, life (retail) and non-life teams.
+
     - role: Deputy Appointed Actuary
       time: Oct 2020 – Feb 2022
       company: Westpac Life Insurance Services Limited, Australia 
