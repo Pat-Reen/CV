@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: Pat Reen
-    tagline: Data scientist | Financial services professional | Actuary
+    tagline: Financial services professional | Actuary | Data scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -23,13 +23,13 @@ sidebar:
       - item: Data strategy, management
         link:
 
-      - item: Advanced analytics
-        link:
-
       - item: Automation
         link:
 
       - item: Reporting, visualization
+        link:
+
+      - item: Advanced analytics
         link:
 
 career-profile:
@@ -77,10 +77,10 @@ experiences:
         increasing automation, increasing the level of result granularity, reducing operational risk 
         and upskilling the team. 
 
-          - Translated business needs into technical requirements
-          - Advised the HoGI and head of group pricing on project plans and timelines
-          - Led the viability assessment of proposed software solutions
-          - Devised and led the execution of the solution testing plan 
+          - Translated business needs into technical requirements.
+          - Advised the HoGI and head of group pricing on project plans and timelines.
+          - Led the viability assessment of proposed software solutions.
+          - Devised and led the execution of the solution testing plan .
           - Modified plans based upon cross-functional input e.g. group enterprise architecture, 
             external software providers, life (retail) and non-life teams.
 
