@@ -15,7 +15,6 @@ sidebar:
     website: pat-reen.github.io/More-Modelling-Recipes/ #do not add http://
     linkedin: Patrick-Reen
     email: pat.reen.cv@gmail.com
-    phone: 0280 035 034
     github: Pat-Reen
     pdf: assets/images/pat-reen-CV-print.pdf
 
@@ -49,7 +48,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Tableau 
+      - name: Tableau, PowerBI 
         level: 95%
 
       - name: Alteryx
@@ -61,29 +60,32 @@ skills:
       - name: R
         level: 95%
 
-      - name: Prophet
+      - name: Python
         level: 70%
 
-      - name: Python
-        level: 50%
+      - name: Databricks
+        level: 60%
 
 experiences:
-    - role: Pricing and Analytics Consultant
+    - role: Pricing and AnalyticsConsultant
       time: Sep 2022 - Present
       company: Munich Reinsurance, Australia (MRA)
       details: |
         Reporting to Head of Group Insurance (HoGI)
 
-        In this role I consulted on the redesign of group pricing processes with a view to improving efficiency, 
+        In this role I consulted on the redesign of group pricing processes with a view to improving efficiency and capabilities, 
         increasing automation, increasing the level of result granularity, reducing operational risk 
         and upskilling the team. 
 
-          - Translated business needs into technical requirements.
-          - Advised the HoGI and head of group pricing on project plans and timelines.
-          - Led the viability assessment of proposed software solutions.
-          - Devised and led the execution of the solution testing plan .
-          - Modified plans based upon cross-functional input e.g. group enterprise architecture, 
-            external software providers, life (retail) and non-life teams.
+        **Key achievement:** Complete overhaul of pricing result visualisations. Significant enhancements to assumption setting processes.
+
+          - Translated business needs into technical requirements and led the viability assessment of proposed software solutions.
+          - Collaborated with the HoGI and head of group pricing (HoGP) to define a target state and project plans to align pricing processes with business needs.Supported stakeholder communication of same.
+          - Engaged with support areas to clear a path for success e.g. group enterprise architecture, 
+            external software providers, experience investigation and review teams.
+          - Devised and led the sprint plan.
+          - Designed results visualisations and applied alternative models to assumptions setting processes through live pricing exercises.
+          - Collaborated with the project manager to develop a change control and training plan for the team.    
 
     - role: Deputy Appointed Actuary
       time: Oct 2020 – Feb 2022
