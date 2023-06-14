@@ -21,29 +21,7 @@
      position: relative;  /* added */
    }
  
-   .sidebar-wrapper {
-     width: 100%;  /* full width */
-     position: relative;  /* added */
-     font-size: 10pt;  /* reduce font size */
-     margin-bottom: 1em;  /* add space between sidebar and main content */
-   }
- 
-   .sidebar-wrapper .profile-container {
-     display: flex;  /* make elements within the profile container line up horizontally */
-     justify-content: space-between;  /* space out the elements evenly */
-     align-items: center;  /* center align the elements vertically */
-   }
- 
-   .sidebar-wrapper .profile-container h1.name,
-   .sidebar-wrapper .profile-container h3.tagline {
-     margin: 0;  /* remove default margins */
-   }
- 
-   .sidebar-wrapper a {
-     display: none;  /* hides links for printing */
-   }
-
-    .remove-container.container-block {
+   .remove-container.container-block {
        display: none;
     }
 
