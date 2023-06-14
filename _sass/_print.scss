@@ -20,6 +20,10 @@
      width: 100%;  /* full width */
      position: relative;  /* added */
    }
+
+   .sidebar-wrapper {
+      display: none;  /* added */
+    }
  
    .remove-container.container-block {
        display: none;
