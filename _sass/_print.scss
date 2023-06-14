@@ -11,14 +11,10 @@
         -webkit-filter: grayscale(1);
     }
     .wrapper {
-      display: flex;
-    }
-   .main-wrapper {
-       flex: 1;
-       padding-right: 1em;  /* Optional. Adds some space between the main content and the sidebar */
+      display: flex !important;
    }
-   .sidebar-wrapper {
-       flex: 1;
+   .main-wrapper, .sidebar-wrapper {
+         flex: 1 !important;
    }
 
     .remove-container.container-block {
