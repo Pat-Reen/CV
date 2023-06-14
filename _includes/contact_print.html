@@ -12,10 +12,10 @@
 
   <ul class="list-unstyled contact-list">
     {% if site.data.data.sidebar.email %}
-    <li class="email"><i class="fas fa-envelope"></i>{{ site.data.data.sidebar.email }}</li>
+      <li class="email"><i class="fas fa-envelope"></i><span class="contact-text">{{ site.data.data.sidebar.email }}</span></li>
     {% endif %}
     {% if site.data.data.sidebar.phone %}
-    <li class="phone"><i class="fas fa-phone"></i>{{ site.data.data.sidebar.phone }}</li>
+      <li class="phone"><i class="fas fa-phone"></i><span class="contact-text">{{ site.data.data.sidebar.phone }}</span></li>
     {% endif %}
   </ul>
 </div><!--//contact-container-->
