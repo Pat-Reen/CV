@@ -11,9 +11,17 @@
      filter: grayscale(1);
      -webkit-filter: grayscale(1);
    }
+
+   .contact-container .name {
+      font-size: 2em; /* Adjust size as needed */
+    }
+ 
+    .contact-container .contact-list li {
+      margin-bottom: 10px; /* Adjust space as needed */
+    }
  
    .wrapper {
-     display: block; /* sidebar and main content stack vertically */
+     display: block; 
    }
  
    .main-wrapper {

@@ -1,26 +1,21 @@
-{% assign sidebar = site.data.data.sidebar %}
 <div class="contact-container container-block">
+  
+  <div class="profile-container">
+    {% if site.data.data.sidebar.name %}
+      <h1 class="name">{{ site.data.data.sidebar.name }}</h1>
+    {% endif %}
+
+    {% if site.data.data.sidebar.tagline %}
+      <h3 class="tagline">{{ site.data.data.sidebar.tagline }}</h3>
+    {% endif %}
+  </div>
+
   <ul class="list-unstyled contact-list">
-    {% if sidebar.email %}
-    <li class="email"><i class="fas fa-envelope"></i>{{ sidebar.email }}</li>
+    {% if site.data.data.sidebar.email %}
+    <li class="email"><i class="fas fa-envelope"></i>{{ site.data.data.sidebar.email }}</li>
     {% endif %}
-    {% if sidebar.phone %}
-    <li class="phone"><i class="fas fa-phone"></i>{{ sidebar.phone }}</li>
-    {% endif %}
-    {% if sidebar.citizenship %}
-    <li class="phone"><i class="fas fa-passport"></i>{{ sidebar.citizenship }}</li>
-    {% endif %}
-    {% if sidebar.timezone %}
-    <li class="timezone"><i class="fas fa-clock"></i>{{ sidebar.timezone }}</li>
-    {% endif %}
-    {% if sidebar.website %}
-    <li class="website"><i class="fas fa-globe-americas"></i>{{ sidebar.website }}</li>
-    {% endif %}
-    {% if sidebar.linkedin %}
-    <li class="linkedin"><i class="fab fa-linkedin"></i>{{ sidebar.linkedin }}</li>
-    {% endif %}
-    {% if sidebar.github %}
-    <li class="github"><i class="fab fa-github"></i>{{ sidebar.github }}</li>
+    {% if site.data.data.sidebar.phone %}
+    <li class="phone"><i class="fas fa-phone"></i>{{ site.data.data.sidebar.phone }}</li>
     {% endif %}
   </ul>
 </div><!--//contact-container-->
