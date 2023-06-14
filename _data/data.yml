@@ -7,7 +7,7 @@ sidebar:
 
     # Profile information
     name: Pat Reen
-    tagline: Financial services professional | Actuary | Data scientist
+    tagline: Financial services professional | Data Actuary 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -67,20 +67,19 @@ skills:
         level: 60%
 
 experiences:
-    - role: Pricing and AnalyticsConsultant
+    - role: Pricing and Analytics Consultant
       time: Sep 2022 - Present
       company: Munich Reinsurance, Australia (MRA)
       details: |
         Reporting to Head of Group Insurance (HoGI)
 
-        In this role I consulted on the redesign of group pricing processes with a view to improving efficiency and capabilities, 
-        increasing automation, increasing the level of result granularity, reducing operational risk 
-        and upskilling the team. 
-
         **Key achievement:** Complete overhaul of pricing result visualisations. Significant enhancements to assumption setting processes.
 
+          - In this role I consulted on the redesign of group pricing processes with a view to improving efficiency and capabilities, 
+            increasing the level of result granularity, reducing operational risk and upskilling the team. 
           - Translated business needs into technical requirements and led the viability assessment of proposed software solutions.
-          - Collaborated with the HoGI and head of group pricing (HoGP) to define a target state and project plans to align pricing processes with business needs.Supported stakeholder communication of same.
+          - Collaborated with the HoGI and head of group pricing (HoGP) to define a target state and project plans to align pricing processes 
+            with business needs.Supported stakeholder communication of same.
           - Engaged with support areas to clear a path for success e.g. group enterprise architecture, 
             external software providers, experience investigation and review teams.
           - Devised and led the sprint plan.
@@ -158,8 +157,7 @@ experiences:
             Regulatory Capital reporting and APRA reporting.
           - Supported the delivery of the Internal Capital Adequacy Assessment 
             Process (ICAAP) report and the Financial Condition Report (FCR).
-          - Assisted the Appointed Actuary in preparing formal actuarial advice 
-            for the business.
+          - Assisted the Appointed Actuary in preparing actuarial advice.
           - In conjunction with the CVA, championed 1st line of defence improvements.
           - Led the team in cross-functional knowledge sharing and enhancing reporting.
 
@@ -169,20 +167,7 @@ experiences:
       details: |
         Reporting to the Head of Research/ CRO 
 
-        **Key achievement:** Increased the frequency and granularity of data analysis 
-        for key blocks of business which allowed more dynamic repricing for 
-        rapidly evolving experience.
-
-          - Translated client analytics and industry experience into business 
-            insights/ predictive models and communicated results directly to RGAA 
-            management.
-          - Led the team’s efforts in experience analysis/ developing assumption 
-            basis proposals.
-          - Collaborated on pricing exercises, notably longevity business; and an 
-            instalment TPD product, working closely with business specialists in 
-            claims and rehabilitation.
-          - Delivered RGAA’s ICAAP report to the CRO and supported the FCR.
-          - Challenged the design of underlying models and analytics against intended purpose.
+        **Key achievement:** Increased the frequency and granularity of data analysis to reflect rapidly evolving experience.
 
     - role: Corporate Actuary/ Actuarial Specialist
       time: Jan 2009 – Apr 2014
@@ -192,15 +177,6 @@ experiences:
 
         **Key achievement:** Streamlined the modelling of new products as well as 
         product migrations through championing cross-team knowledge sharing.
-
-          - Led the team’s efforts in the financial reporting of 14 international 
-            subsidiaries of varying complexity, communicating outcomes directly 
-            to MMI management structures.
-          - Assessed the business impacts of new or altered products and changes 
-            to the capital regime.
-          - Co-ordinated the migration of the valuation/reporting of products 
-            across divisions.
-          - Co-ordinated the regulator stress test calculations for Individual Life products.
 
 education:
     - degree: Fellow (FIAA)
