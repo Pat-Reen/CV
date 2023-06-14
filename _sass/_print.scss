@@ -13,8 +13,13 @@
     .wrapper {
       display: flex !important;
    }
-   .main-wrapper, .sidebar-wrapper {
-         flex: 1 !important;
+   .main-wrapper {
+      flex: 3;
+      position: relative;  
+   }
+   .sidebar-wrapper {
+         flex: 1;
+         position: relative;  
    }
 
     .remove-container.container-block {
